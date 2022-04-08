@@ -2,11 +2,12 @@
   "name": "react-tic-tac-toe",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://alvarodgzz.github.io",
+  "homepage": "https://alvarodgzz.github.io/tareaReact1",
   "devDependencies": {
     "react-scripts": "0.9.0"
   },
   "dependencies": {
+    "gh-pages": "^3.2.3",
     "react": "^15.4.2",
     "react-dom": "^15.4.2"
   },
